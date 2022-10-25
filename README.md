@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Benedictaokafor
-- 👀 I’m interested in ...
+- 👀 I’m interested in software
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software devops and many more.
 - 📫 How to reach me; you can send a mail to the address: bennyspunky@gmail.com
